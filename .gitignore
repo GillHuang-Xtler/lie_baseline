@@ -1,0 +1,12 @@
+*.log
+*.pyc
+/data_loaders
+/data
+/cifar10_data
+/mnist_data
+/default_models
+/venv
+/__pycache__
+/.idea
+./vector_cache
+
